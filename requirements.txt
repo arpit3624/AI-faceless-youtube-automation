@@ -1,0 +1,1 @@
+openai==1.3.0\ngoogle-api-python-client==1.12.5\ngoogle-auth-oauthlib==1.1.0\ngoogle-auth-httplib2==0.2.0\npython-dotenv==1.0.0\nrequests==2.31.0\npandas==2.0.3\nmoviepy==1.0.3\nPillow==10.0.0\nelevenlabs==0.2.5\npydub==0.25.1\nffmpeg-python==0.2.1\npillow-simd==9.0.0\nnumpy==1.24.3
